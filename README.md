@@ -1,4 +1,4 @@
-## LZW-based data encoder/decoder
+## LZW-based data encoder/decoder [![Build Status](https://travis-ci.org/Mototroller/ax.lzw.svg?branch=master)](https://travis-ci.org/Mototroller/ax.lzw)
 
 Header-only library **lzw.hpp** contains implementation of original [LZW](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch) compression/decompression algorithms.
 
